@@ -34,14 +34,23 @@ The output parameters are:
 
 The UI allows the user to enter the data for the hot and cold streams in the input fields and click "Add" to add them to the list. The UI validates the input data and shows an error message if the data is invalid or incomplete. When the user is done with the temperature stream, they have to add deltaT min. Then, they can use the "Save and Calculate" button to reach the next page. The UI displays the results and the user can use the "GCC Plot" and "CC Plot" buttons to graph GCC and CC.
 
-The following image show an example of the HEN problem with two hot streams and two cold streams:
-![Exapmle](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/Example.jpg?raw=true) 
+__The following image shows an example of the HEN problem with two hot streams and two cold streams:__
 
-The following screenshots show the UI and the results for the related problem:
-![UI_Page1](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/UI_Page1.png?raw=true)
-![UI_Page2](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/UI_Page2.png?raw=true)
-![GCC_Plot](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/GCC_Plot.png?raw=true)
-![CC_Plot](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/CC_Plot.png?raw=true) 
+<p align="center">
+<img src="[0](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/Example.jpg?raw=true)" alt="Example">
+</p>
+
+__The following screenshots show the UI and the results for the related problem:__
+
+<p align="center">
+<img src="[1](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/UI_Page1.png?raw=true)" alt="UI_Page1">
+
+<img src="[2](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/UI_Page2.png?raw=true)" alt="UI_Page2">
+
+<img src="[3](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/GCC_Plot.png?raw=true)" alt="GCC_Plot">
+
+<img src="[4](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/CC_Plot.png?raw=true)" alt="CC_Plot">
+</p>
 
 ## Installation
 

@@ -37,19 +37,19 @@ The UI allows the user to enter the data for the hot and cold streams in the inp
 __The following image shows an example of the HEN problem with two hot streams and two cold streams:__
 
 <p align="center">
-<img src="[0](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/Example.jpg?raw=true)" alt="Example">
+<img src="https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/Example.jpg?raw=true" alt="Example">
 </p>
 
 __The following screenshots show the UI and the results for the related problem:__
 
 <p align="center">
-<img src="[1](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/UI_Page1.png?raw=true)" alt="UI_Page1">
+<img src="https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/UI_Page1.png?raw=true" alt="UI_Page1">
 
-<img src="[2](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/UI_Page2.png?raw=true)" alt="UI_Page2">
+<img src="https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/UI_Page2.png?raw=true" alt="UI_Page2">
 
-<img src="[3](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/GCC_Plot.png?raw=true)" alt="GCC_Plot">
+<img src="https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/GCC_Plot.png?raw=true" alt="GCC_Plot">
 
-<img src="[4](https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/CC_Plot.png?raw=true)" alt="CC_Plot">
+<img src="https://github.com/alirohanizadeh/PinchPointCalculator/blob/master/images/CC_Plot.png?raw=true" alt="CC_Plot">
 </p>
 
 ## Installation
